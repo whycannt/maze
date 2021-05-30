@@ -2,12 +2,11 @@
 
 * open cmd.exe and input commands
 
-  ![](./img/1.PNG)
+  <img src="img\1.PNG" style="zoom:100%;" />
 
-  ![](./img/2.PNG)
+  <img src="img\2.PNG" style="zoom:75%;" />
 
   * output to svg file :
   * maze.exe -o file.svg
 
-  ![](./img/3.PNG)
-
+  <img src="img\3.PNG" style="zoom:50%;" />
